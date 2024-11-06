@@ -1,0 +1,15 @@
+C:\Users\frivero\source\repos\Reporte\Reporte\bin\Debug\net6.0\Reporte.exe
+C:\Users\frivero\source\repos\Reporte\Reporte\bin\Debug\net6.0\Reporte.deps.json
+C:\Users\frivero\source\repos\Reporte\Reporte\bin\Debug\net6.0\Reporte.runtimeconfig.json
+C:\Users\frivero\source\repos\Reporte\Reporte\bin\Debug\net6.0\Reporte.dll
+C:\Users\frivero\source\repos\Reporte\Reporte\bin\Debug\net6.0\Reporte.pdb
+C:\Users\frivero\source\repos\Reporte\Reporte\obj\Debug\net6.0\Reporte.csproj.AssemblyReference.cache
+C:\Users\frivero\source\repos\Reporte\Reporte\obj\Debug\net6.0\Reporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frivero\source\repos\Reporte\Reporte\obj\Debug\net6.0\Reporte.AssemblyInfoInputs.cache
+C:\Users\frivero\source\repos\Reporte\Reporte\obj\Debug\net6.0\Reporte.AssemblyInfo.cs
+C:\Users\frivero\source\repos\Reporte\Reporte\obj\Debug\net6.0\Reporte.csproj.CoreCompileInputs.cache
+C:\Users\frivero\source\repos\Reporte\Reporte\obj\Debug\net6.0\Reporte.dll
+C:\Users\frivero\source\repos\Reporte\Reporte\obj\Debug\net6.0\refint\Reporte.dll
+C:\Users\frivero\source\repos\Reporte\Reporte\obj\Debug\net6.0\Reporte.pdb
+C:\Users\frivero\source\repos\Reporte\Reporte\obj\Debug\net6.0\Reporte.genruntimeconfig.cache
+C:\Users\frivero\source\repos\Reporte\Reporte\obj\Debug\net6.0\ref\Reporte.dll
